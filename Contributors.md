@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Andrej Marinchenko](https://github.com/BEPb)
+- [Santiago Urbano](https://github.com/sanurb)
 - [Vincent Limo](https://github.com/v-limo)
 - [Rahul Ghetia](https://github.com/Rahul6725)
 - [Timeo Williams](https://github.com/timeowilliams)
