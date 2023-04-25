@@ -1,6 +1,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Aditya Mohite](https://github.com/adityamohite25)
+- [Bohdan Yarinko](https://github.com/AdobyY)
 - [Andrej Marinchenko](https://github.com/BEPb)
 - [Vincent Limo](https://github.com/v-limo)
 - [Rahul Ghetia](https://github.com/Rahul6725)
@@ -24,7 +25,7 @@
 - [Dominic Merchelski] (https://github.com/rat-3)
 - [Yash Anand] (https://github.com/YashxAnand)
 - [k2491p](https://github.com/k2491p)
--[Daniela Morales](https://github.com/DaniMSix)
+- [Daniela Morales](https://github.com/DaniMSix)
 - [Ankit Mehta](https://github.com/ankyit)
 - [Diwanshi Gupta](https://github.com/diwanshib)
 - [Andres Calzadias](https://github.com/cmndrqueso)
