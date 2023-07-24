@@ -1,5 +1,6 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Leonardo de Castro] (https://github.com/LeonardodCastro)
 - [Aditya Mohite](https://github.com/adityamohite25)
 - [Andrej Marinchenko](https://github.com/BEPb)
 - [Vincent Limo](https://github.com/v-limo)
