@@ -4,6 +4,7 @@
 - [Andrej Marinchenko](https://github.com/BEPb)
 - [Vincent Limo](https://github.com/v-limo)
 - [Rahul Ghetia](https://github.com/Rahul6725)
+- [Hriday Bhardwaj](https://github.com/Hriday1001)
 - [Timeo Williams](https://github.com/timeowilliams)
 - [Riyaz Shaikh](https://github.com/riyaz2022)
 - [Nishant Srinivasan](https://github.com/nishant-sr)
