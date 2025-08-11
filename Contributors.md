@@ -14,6 +14,7 @@
 - [Michael Zubenko](https://github.com/flowr1x)
 - [Adithya K Shetty]
 - [Eric Manfred](https://github.com/emanfred)
+- [Carliethinks](https://github.com/carliethinks)
 - [Scott Burton](https://github.com/klrqn)
 - [Kamil Yousuf](https://github.com/tyiop794)
 - [Thet Su Su Kyaw](https://github.com/ThetSu2Kyaw)
